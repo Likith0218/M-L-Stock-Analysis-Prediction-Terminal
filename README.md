@@ -23,7 +23,7 @@ Fetches live data from Yahoo Finance, applies technical analysis with the `ta` l
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/Likith0218/.git](https://github.com/Likith0218/M-L-Stock-Analysis-Prediction-Terminal
+git clone https://github.com/Likith0218/M-L-Stock-Analysis-Prediction-Terminal
 cd <repo>
 
 # Install dependencies
