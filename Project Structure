@@ -1,0 +1,6 @@
+.
+├── Home.py            # Main application file
+├── requirements.txt   # Python dependencies
+├── LICENSE            # MIT License
+├── README.md          # Project overview
+└── /docs              # Documentation (optional)
