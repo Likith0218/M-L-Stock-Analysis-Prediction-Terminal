@@ -53,4 +53,4 @@ streamlit run Home.py
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 ## Authors
-Developed by [LIKITH C](https://github.com/Likith0218) and [MOHAN S REDDY](https://github.com/<your-username>)
+Developed by [LIKITH C](https://github.com/Likith0218) and [MOHAN S REDDY](https://github.com/Mohan0230)
