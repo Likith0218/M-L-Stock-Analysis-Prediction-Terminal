@@ -31,3 +31,26 @@ pip install -r requirements.txt
 
 # Run the app
 streamlit run Home.py
+```
+
+## Usage
+1. Launch the app with `streamlit run Home.py`.
+2. Select a stock category or search for a specific ticker.
+3. View real-time data, charts, and technical indicators.
+4. Adjust chart settings and analysis parameters as needed.
+
+## Project Structure
+```
+.
+├── Home.py            # Main application file
+├── requirements.txt   # Python dependencies
+├── LICENSE            # MIT License
+├── README.md          # Project overview
+└── /docs              # Documentation (optional)
+```
+
+## License
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
+## Authors
+Developed by [LIKITH C](https://github.com/) and [MOHAN S REDDY](https://github.com/<your-username>)
