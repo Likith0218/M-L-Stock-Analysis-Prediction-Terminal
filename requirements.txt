@@ -1,0 +1,7 @@
+numpy
+pandas
+plotly.graph_objects
+requests
+streamlit
+ta
+yfinance
